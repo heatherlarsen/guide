@@ -1,0 +1,11 @@
+.hero-bg {
+  background: url("../images/hero_bg.jpg") no-repeat center center fixed;
+  background-color: #777;
+  background-blend-mode: screen;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 500px; }
+
+/*# sourceMappingURL=main.css.map */
